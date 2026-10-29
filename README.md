@@ -244,18 +244,6 @@ configuration.
 -   Consider an admin workflow or deployment after local behaviour is
     validated.
 
-## Academic Details
-
-Update before publishing or submitting:
-
--   **Project:** Smart College FAQ System
--   **Student name:** \[Your Name\]
--   **Department:** Information Technology
--   **College:** \[Your College Name\]
--   **Academic year:** \[Academic Year\]
--   **Project guide:** \[Guide Name\]
-
-## License
 
 Add a license file if you intend to distribute this project publicly. No
 specific open-source license is implied unless one is added.
