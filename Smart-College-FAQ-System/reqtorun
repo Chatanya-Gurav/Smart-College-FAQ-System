@@ -1,0 +1,3 @@
+.\venv\Scripts\Activate.ps1 ----- to activate venv
+uvicorn backend.main:app --reload ---- to run backend
+streamlit run app.py ----to run frontend steamlit
